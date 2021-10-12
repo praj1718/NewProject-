@@ -1,3 +1,3 @@
 # NewProject-
-uploded a HTMl frontend page 
+Uploded a HTMl frontend page 
 As a New Project to Repository 
